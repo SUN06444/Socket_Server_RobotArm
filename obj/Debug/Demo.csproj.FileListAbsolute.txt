@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\NCUT\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\admin\Desktop\NCUT\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NCUT\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\admin\Desktop\NCUT\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\admin\Desktop\NCUT\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\admin\Desktop\NCUT\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\admin\Downloads\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\admin\Downloads\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\admin\Downloads\Demo\Demo\obj\Debug\Demo.pdb
